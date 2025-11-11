@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Neil Dandekar
 UCSD Email: nmdandekar@ucsd.edu
 
