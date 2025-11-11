@@ -1,0 +1,8 @@
+title: My Site
+description: A minimal Jekyll site
+theme: minima
+
+# Optional but common
+markdown: kramdown
+plugins:
+  - jekyll-feed
