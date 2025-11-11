@@ -1,8 +1,8 @@
-title: My Site
-description: A minimal Jekyll site
+title: DSC180A Methodology 4
+description: Barebones Jekyll site for Assignment 4
 theme: minima
 
-# Optional but common
 markdown: kramdown
+
 plugins:
   - jekyll-feed
